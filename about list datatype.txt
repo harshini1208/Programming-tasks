@@ -1,0 +1,45 @@
+
+list datatype
+-list are used to store multiple items in single variable
+-list items are ordered
+-list is mutable(changeable)
+-it will allow duplicate value
+-to determin how many items list has len()
+
+methods in list:
+append()used for appending and adding elements to the end of the list
+insert()--insert a given element at any given index in a list
+remove()--removes given object from the list
+pop()--removes and returns the last value from the list or given index value
+extend()--adds each element of iterable to the end of the list
+copy()--it will return shallow copy of list
+clear()--used to remove all items from list
+index()--return lowest index where the element appears
+reverse()--reverses objects
+sort()--sort a list in ascending or descending or user defined order
+min()--calculate the min of all the elements in list
+max()--calcualte max of all elements in list(it will return highest alphabetical char in the list)
+
+
+type conversions:
+converting string to list of characters
+converting tuple to list
+converting range to list
+converting dict to list
+
+
+
+what is list in python
+how do you create list in python
+how do you access elements from list
+how do you add elements in list
+how do you remove elements in list
+how do you iterate over in list
+slicing
+indexing
+
+how do you sort list 
+how do you reverse a list
+
+
+list comprehensions:#syntax-newlist=[expression for item in iterable if condition==true]
